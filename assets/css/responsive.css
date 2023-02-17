@@ -32,7 +32,6 @@
     width: 80%;
   }
 }
-
 /* tablets */
 @media (max-width: 991px) {
   #main-slide .carousel-caption {
@@ -94,7 +93,6 @@
     margin-top: 30px;
   }
 }
-
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
   #main-slide .carousel-caption {
@@ -152,7 +150,6 @@
     margin-top: 30px;
   }
 }
-
 /* mobile or only mobile */
 @media (max-width: 767px) {
   .section-title {
@@ -252,7 +249,6 @@
     border-bottom: 1px solid #ddd;
   }
 }
-
 @media (min-width: 320px) and (max-width: 480px) {
   #main-slide .carousel-item .carousel-caption .heading {
     letter-spacing: 0;
@@ -280,3 +276,5 @@
     font-size: 13px;
   }
 }
+
+/*# sourceMappingURL=responsive.css.map */
