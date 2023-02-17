@@ -23,7 +23,7 @@
     position: relative;
     padding: 0px;
     img {
-        width: 75%;
+        width: 15%;
     }
 }
 .top-nav-collapse {
@@ -109,13 +109,6 @@
     padding: 0;
     li.active a.nav-link {
         color: $preset !important;
-    }
-    background: #fff !important;
-    .navbar-nav .nav-link {
-        color: #212121 !important;
-        &:hover {
-            color: $preset !important;
-        }
     }
 }
 .dropdown-toggle::after {
@@ -235,7 +228,7 @@
         padding: 15px 15px;
         top: 0;
         img {
-            width: 75%;
+            width: 15% !important;
         }
     }
     #mobile-menu {
